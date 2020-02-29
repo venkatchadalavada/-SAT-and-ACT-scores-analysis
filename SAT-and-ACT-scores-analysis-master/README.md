@@ -1,4 +1,4 @@
-### Project 1: SAT & ACT Analysis
+ SAT & ACT Analysis
 ---
 In this project I examined trends in SAT and ACT participation rates as well as aggregate scores from 2017 and 2018. Participation rates vary greatly by state, and the aim of this project was to uncover underlying patterns in order to suggest a suitable state in which to improve SAT participation rates.
 
